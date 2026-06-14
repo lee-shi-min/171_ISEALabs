@@ -43,3 +43,32 @@ sudo cp EECS-2009-28.pdf /var/www/html/
 
 # Check file permissions
 ls -la /var/www/html/
+```
+Reflection Questions
+1. Benefits of cloud deployment over local virtualisation?
+Accessible from anywhere
+
+No need for local hardware
+
+Scalable resources
+
+Pay-as-you-go model
+
+2. How does Apache serve files?
+Apache listens on port 80 and serves files from /var/www/html/ directory.
+
+3. What did you learn about file ownership and permissions?
+Web files need to be readable by the www-data user or world-readable.
+
+4. Risks of leaving instances running?
+Unexpected charges
+
+Security vulnerabilities
+
+5. DNS vs /etc/hosts?
+DNS is global, /etc/hosts is local to the machine.
+
+---
+
+
+
