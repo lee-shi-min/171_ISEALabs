@@ -65,8 +65,6 @@ Figure 1b-1h scp file transfer between machines
 
 ---
 
----
-
 ### Reflection Questions
 
 #### 1. What is the role of a firewall in managing services?
