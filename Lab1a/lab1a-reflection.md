@@ -157,6 +157,7 @@ Using the command line improved my understanding of:
 Commands Used in This Lab:
 
 |Command	          |Purpose                      |
+|:---|:---|
 |sudo apt update    |	Update package lists        |
 |sudo apt upgrade -y|	Upgrade all packages        |
 |uname -a           |	Display kernel information  |
