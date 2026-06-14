@@ -26,6 +26,7 @@ Figure 1c: Hostnamectl output showing Ubuntu 26.04 LTS
 <img width="940" height="322" alt="image" src="https://github.com/user-attachments/assets/08e35bde-fabc-46f5-8c7f-2e0d7d9a601c" />
 
 
+
 Reflection Questions:
 
 1. What challenges did you encounter during the virtual machine setup?
@@ -44,6 +45,8 @@ sudo sed -i '/cdrom/d' /etc/apt/sources.list
 ```
 After running this command, sudo apt update worked without errors.
 
+
+
 2. What did you learn about virtualisation tools and their differences?
 
 I learned that virtualisation allows multiple operating systems to run on a single physical computer. The host OS (Windows 11) runs the hypervisor (VMware Workstation Pro), which creates and manages guest VMs(Ubuntu 26.04)
@@ -60,6 +63,8 @@ Tools: Hyper-V
 Pros: Built into Windows	
 Cons: Complex setup for beginners
 
+
+
 3. How confident do you feel using Ubuntu after completing this lab?
 
 I feel confident navigating the Ubuntu desktop, opening the terminal and running basic commands such as:
@@ -72,6 +77,8 @@ free -h - check RAM usage
 df -h - check disk space
 ip a - check IP addresses
 
+
+
 4. In what ways can a virtualised Linux environment help in industry scenarios?
 
 Virtualisation is used extensively in industry for:
@@ -80,6 +87,8 @@ Testing and Development - Test new software without affecting production systems
 Isolation - Problems inside a VM don't affect the host computer
 Cost Savings - Run multiple virtual servers on one physical machine
 Cloud Computing - AWS, Azure use virtualisation for scalable resources
+
+
 
 5. What would you do differently if setting up another VM?
 
@@ -105,6 +114,8 @@ It is pre-installed on most Linux distributions
 Commands are shown at the bottom of the screen
 It works over slow connections
 
+
+
 7. Compare software installation methods
 
 |Method	          | Description	Example                                        |
@@ -113,12 +124,16 @@ It works over slow connections
 |Repository (apt)  |	Install from trusted repository	sudo apt install vlc       |
 |Source            |	Compile from source code	gcc hello.c -o hello             |
 
+
+
 8. Pros and cons of each method
 |Method	    |Pros	                                      |Cons                                 |
 |SaaS	      |No installation, auto updates	            |Requires internet, subscription fees |
 |Binary	    |Easy for users	                            |Security risks, manual updates       |
 |Repository	|Automatic dependencies, verified security	|Limited to available packages        |
 |Source	    |Full control, latest versions	            |Time-consuming, complex              |
+
+
 
 9. How did using CLI improve your understanding of Linux?
 
@@ -144,6 +159,8 @@ Commands Used in This Lab:
 |ls -la             |	List files with permissions |
 |nano               |	Terminal text editor        |
 |chmod              |	Change file permissions     |
+
+
 
 Conclusion
 
