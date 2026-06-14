@@ -1,8 +1,8 @@
 Lab 1a: Virtualisation and Linux Setup+ Ubuntu CLI Familiarisation
 
-Student Name: LEE SHI MIN
-Student ID: 35702683
-Date: 17 June 2026
+**Student Name: LEE SHI MIN**
+**Student ID: 35702683**
+**Date: 17 June 2026**
 
 Part 1: Virtualisation and Linux Setup
 
