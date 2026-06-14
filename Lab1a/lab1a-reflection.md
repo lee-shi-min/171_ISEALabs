@@ -41,11 +41,11 @@ All screenshots for this lab are located in the `screenshots/` folder.
 
 The main challenge I encountered was the "CD-ROM error" when running `sudo apt update`. The error message said:
 
-Reflection Questions:
+### Reflection Questions
 
-1. What challenges did you encounter during the virtual machine setup?
+#### 1. What challenges did you encounter during the virtual machine setup?
 
-The main challenge I encountered was the "CD-ROM error" when running 'sudo apt update'. The error message said:
+The main challenge I encountered was the "CD-ROM error" when running `sudo apt update`. The error message said:
 
 Err: file:/cdrom resolute Release
 File not found- /cdrom/dists/resolute/Release (2:No such file or directory)
