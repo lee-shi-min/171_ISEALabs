@@ -35,11 +35,6 @@ All screenshots for this lab are located in the `screenshots/` folder.
 <img width="940" height="322" alt="image" src="https://github.com/user-attachments/assets/08e35bde-fabc-46f5-8c7f-2e0d7d9a601c" />
 
 ---
-### Reflection Questions
-
-#### 1. What challenges did you encounter during the virtual machine setup?
-
-The main challenge I encountered was the "CD-ROM error" when running `sudo apt update`. The error message said:
 
 ### Reflection Questions
 
