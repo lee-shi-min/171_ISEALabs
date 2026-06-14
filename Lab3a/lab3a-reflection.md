@@ -69,11 +69,12 @@ sudo certbot --apache -d leeshimin.duckdns.org
 4. Set up automatic redirect from HTTP to HTTPS
 
 ### Screenshots:
-Figure	Description
-Figure 3a-3	Certbot installation
-Figure 3a-4	Certbot success message (certificate issued)
-Figure 3a-5	Browser showing https:// with padlock icon
-Figure 3a-6	sudo certbot renew --dry-run success
+|Figure	    |Description                                   |
+|:---|:---|
+|Figure 3a-3|	Certbot installation                         |
+|Figure 3a-4|	Certbot success message (certificate issued) |
+|Figure 3a-5|	Browser showing https:// with padlock icon   |
+|Figure 3a-6|	sudo certbot renew --dry-run success         |
 
 
 Certificate Details
