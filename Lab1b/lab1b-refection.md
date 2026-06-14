@@ -27,10 +27,14 @@ All screenshots for this lab are located in the `screenshots/` folder.
 
 <img width="1021" height="537" alt="image" src="https://github.com/user-attachments/assets/63fcf05b-2cfe-438c-b2f5-071863c49e1d" />
 Figure 1b-1a Apache installed and running (`systemctl status apache2`) 
+
 ---
+
 <img width="567" height="645" alt="image" src="https://github.com/user-attachments/assets/fa54575e-b2cc-405e-a10c-c5af2ad5cad1" />
 Figure 1b-1b Apache welcome page (`http://localhost`) 
+
 ---
+
 <img width="921" height="492" alt="image" src="https://github.com/user-attachments/assets/1aa0bc5e-5fde-4471-98b8-66d777823b59" />
 Figure 1b-1c IP address (`ip a`) and Nmap scan results 
 ---
