@@ -222,27 +222,5 @@ These skills are fundamental for secure server management and DevOps roles.
 
 ---
 
-## Step 4: Upload screenshots to `Lab1b/screenshots/`
-
-You will need to take and upload screenshots for:
-
-| Part | Screenshots needed |
-| :--- | :--- |
-| **1b-1** | Apache status, Apache welcome page, `ip a`, Nmap results, UFW rules, SSH login, new user, tar/bzip2, scp |
-| **1b-2** | Users created, group created, directory with files, permissions (`ls -l`), access testing |
-| **1b-3** | Archive extraction, `find` command, `grep` command, `du -a` output |
-
----
-
-## Summary Checklist:
-
-| Task | Status |
-| :--- | :--- |
-| Create `Lab1b/` folder | ✅ |
-| Create `Lab1b/lab1b-reflection.md` with content above | ⬜ |
-| Create `Lab1b/screenshots/` folder | ⬜ |
-| Take and upload screenshots | ⬜ |
-
----
 
 
