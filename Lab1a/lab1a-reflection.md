@@ -78,13 +78,13 @@ Cons: Complex setup for beginners
 
 I feel confident navigating the Ubuntu desktop, opening the terminal and running basic commands such as:
 
--'ls' - list files and directories
--'cd' - change directory
--'pwd' - print working directory
--'sudo apt update' - update package lists
--'free -h' - check RAM usage
--'df -h' - check disk space
--'ip a' - check IP addresses
+- 'ls' - list files and directories
+- 'cd' - change directory
+- 'pwd' - print working directory
+- 'sudo apt update' - update package lists
+- 'free -h' - check RAM usage
+- 'df -h' - check disk space
+- 'ip a' - check IP addresses
 
 
 
