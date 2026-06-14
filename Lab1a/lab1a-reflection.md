@@ -56,7 +56,7 @@ After running this command, sudo apt update worked without errors.
 
 
 
-2. What did you learn about virtualisation tools and their differences?
+### 2. What did you learn about virtualisation tools and their differences?
 
 I learned that virtualisation allows multiple operating systems to run on a single physical computer. The host OS (Windows 11) runs the hypervisor (VMware Workstation Pro), which creates and manages guest VMs(Ubuntu 26.04)
 
@@ -88,7 +88,7 @@ I feel confident navigating the Ubuntu desktop, opening the terminal and running
 
 
 
-4. In what ways can a virtualised Linux environment help in industry scenarios?
+### 4. In what ways can a virtualised Linux environment help in industry scenarios?
 
 Virtualisation is used extensively in industry for:
 
@@ -99,7 +99,7 @@ Cloud Computing - AWS, Azure use virtualisation for scalable resources
 
 
 
-5. What would you do differently if setting up another VM?
+### 5. What would you do differently if setting up another VM?
 
 If I set up another VM, I would:
 
@@ -108,13 +108,13 @@ Take screenshots during installation
 Document errors immediately
 Use a static IP for easier SSH access
 
+---
 
-
-Part 2: Ubuntu Desktop and Command Line Familiarisation
+### Part 2: Ubuntu Desktop and Command Line Familiarisation
 
 Reflection Questions: 
 
-6. Which file editors are best for remote access and why?
+### 6. Which file editors are best for remote access and why?
 
 nano is best for remote access because:
 
@@ -125,7 +125,7 @@ It works over slow connections
 
 
 
-7. Compare software installation methods
+### 7. Compare software installation methods
 
 |Method	          | Description	Example                                          |
 |:---|:---|
@@ -136,7 +136,7 @@ It works over slow connections
 
 
 
-8. Pros and cons of each method
+### 8. Pros and cons of each method
 |Method	    |Pros	                                      |Cons                                 |
 |:---|:---|
 |SaaS	      |No installation, auto updates	            |Requires internet, subscription fees |
@@ -146,7 +146,7 @@ It works over slow connections
 
 
 
-10. How did using CLI improve your understanding of Linux?
+### 9. How did using CLI improve your understanding of Linux?
 
 Using the command line improved my understanding of:
 
@@ -156,7 +156,7 @@ Using the command line improved my understanding of:
 4. Package management - apt commands for installing software
 5. Troubleshooting - Reading error messages and finding solutions
 
-Commands Used in This Lab:
+### Commands Used in This Lab:
 
 |Command	          |Purpose                      |
 |:---|:---|
@@ -174,7 +174,7 @@ Commands Used in This Lab:
 
 
 
-Conclusion
+### Conclusion
 
 Lab 1a successfully introduced me to virtualisation, Ubuntu Linux installation, and command-line basics. I can now create and manage virtual machines, navigate the Linux filesystem, and troubleshoot common errors. These skills are essential for system administration and cloud computing roles.
 
