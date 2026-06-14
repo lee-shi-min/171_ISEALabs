@@ -74,7 +74,7 @@ Cons: Complex setup for beginners
 
 
 
-3. How confident do you feel using Ubuntu after completing this lab?
+###3. How confident do you feel using Ubuntu after completing this lab?
 
 I feel confident navigating the Ubuntu desktop, opening the terminal and running basic commands such as:
 
