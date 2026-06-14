@@ -48,6 +48,7 @@ Figure 1b-1g tar and bzip2 compression commands
 ---
 <img width="1007" height="92" alt="image" src="https://github.com/user-attachments/assets/48da37a1-3b30-43b8-a517-f4c1b3132e77" />
 Figure 1b-1h scp file transfer between machines 
+---
 
 ---
 
