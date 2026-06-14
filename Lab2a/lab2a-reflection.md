@@ -11,6 +11,16 @@
 | HP DeskJet 2755 | Inkjet | $60 |
 | Brother HL-L2350DW | Laser | $150 |
 
+<img width="317" height="657" alt="image" src="https://github.com/user-attachments/assets/80203ed5-a435-41b1-8583-46667140587f" />
+Figure 2a-1: HP DeskJet 2755
+
+<img width="312" height="652" alt="image" src="https://github.com/user-attachments/assets/b6c4a02f-baf7-493e-9514-832aa446059b" />
+Figure 2a-2: Brother HL-L2350DW
+
+<img width="555" height="267" alt="image" src="https://github.com/user-attachments/assets/e422e903-c403-4569-a4b7-bfde7dfd05ca" />
+Figure 2a-3: TCO Spreadsheet
+---
+
 ## Assumptions
 
 | Assumption | Value |
