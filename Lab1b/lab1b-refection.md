@@ -37,21 +37,32 @@ Figure 1b-1b Apache welcome page (`http://localhost`)
 
 <img width="921" height="492" alt="image" src="https://github.com/user-attachments/assets/1aa0bc5e-5fde-4471-98b8-66d777823b59" />
 Figure 1b-1c IP address (`ip a`) and Nmap scan results 
+
 ---
+
 <img width="802" height="462" alt="image" src="https://github.com/user-attachments/assets/217ad55f-fabd-49b5-b25a-aa81f22dd08d" />
 Figure 1b-1d UFW firewall enabled and port 80 allowed 
+
 ---
+
 <img width="1017" height="587" alt="image" src="https://github.com/user-attachments/assets/c02a102d-0ac7-496e-9f0f-2fd9edc76d09" />
-Figure 1b-1e SSH login to partner's machine 
+Figure 1b-1e SSH login to partner's machine
+
 ---
+
 <img width="917" height="280" alt="image" src="https://github.com/user-attachments/assets/b4825500-b89a-4abe-a73b-174463098fea" />
 Figure 1b-1f New user created (`sudo adduser`) 
+
 ---
+
 <img width="905" height="536" alt="image" src="https://github.com/user-attachments/assets/402daffc-18ac-490f-b680-943b24dd5b74" />
 Figure 1b-1g tar and bzip2 compression commands 
+
 ---
+
 <img width="1007" height="92" alt="image" src="https://github.com/user-attachments/assets/48da37a1-3b30-43b8-a517-f4c1b3132e77" />
 Figure 1b-1h scp file transfer between machines 
+
 ---
 
 ---
