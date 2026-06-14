@@ -18,16 +18,23 @@ All screenshots for this lab are located in the `screenshots/` folder.
 
 ---
 
-<img width="940" height="560" alt="image" src="https://github.com/user-attachments/assets/ce7ac234-fd4f-4482-92ee-7f2dff4bcf37" />
 **Figure 1a: Ubuntu 26.04 LTS Desktop**
----
-<img width="940" height="435" alt="image" src="https://github.com/user-attachments/assets/f1c285d5-7016-4e9e-a422-1613708dfb22" />
-**Figure 1b: System verification (`uname -a`, `lsb_release -a`, `free -h`, `df -h`)**
----
-<img width="940" height="322" alt="image" src="https://github.com/user-attachments/assets/08e35bde-fabc-46f5-8c7f-2e0d7d9a601c" />
-**Figure 1c: Hostnamectl output showing Ubuntu 26.04 LTS**
+
+<img width="940" height="560" alt="image" src="https://github.com/user-attachments/assets/ce7ac234-fd4f-4482-92ee-7f2dff4bcf37" />
+
 ---
 
+**Figure 1b: System verification (`uname -a`, `lsb_release -a`, `free -h`, `df -h`)**
+
+<img width="940" height="435" alt="image" src="https://github.com/user-attachments/assets/f1c285d5-7016-4e9e-a422-1613708dfb22" />
+
+---
+
+**Figure 1c: Hostnamectl output showing Ubuntu 26.04 LTS**
+
+<img width="940" height="322" alt="image" src="https://github.com/user-attachments/assets/08e35bde-fabc-46f5-8c7f-2e0d7d9a601c" />
+
+---
 ### Reflection Questions
 
 #### 1. What challenges did you encounter during the virtual machine setup?
