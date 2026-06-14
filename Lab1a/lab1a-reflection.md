@@ -127,8 +127,9 @@ It works over slow connections
 
 7. Compare software installation methods
 
-|Method	          | Description	Example                                        |
-|SaaS	            | Software accessed via web browser	Google Docs, Office 365  |
+|Method	          | Description	Example                                          |
+|:---|:---|
+|SaaS	            | Software accessed via web browser	Google Docs, Office 365    |
 |Binary (.deb)     |	Download and install executable	Chrome, Opera              |
 |Repository (apt)  |	Install from trusted repository	sudo apt install vlc       |
 |Source            |	Compile from source code	gcc hello.c -o hello             |
@@ -137,6 +138,7 @@ It works over slow connections
 
 8. Pros and cons of each method
 |Method	    |Pros	                                      |Cons                                 |
+|:---|:---|
 |SaaS	      |No installation, auto updates	            |Requires internet, subscription fees |
 |Binary	    |Easy for users	                            |Security risks, manual updates       |
 |Repository	|Automatic dependencies, verified security	|Limited to available packages        |
@@ -144,7 +146,7 @@ It works over slow connections
 
 
 
-9. How did using CLI improve your understanding of Linux?
+10. How did using CLI improve your understanding of Linux?
 
 Using the command line improved my understanding of:
 
