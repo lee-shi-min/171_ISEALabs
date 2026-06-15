@@ -25,29 +25,71 @@ This repository contains all my lab work and assignments for the **Introduction 
 ## 📁 Repository Structure
 ```
 171_ISEALabs/
-├── README.md # This file
-├── Lab1a/ # Virtualisation and Linux Setup
-│ ├── lab1a-reflection.md
-│ └── screenshots/
-├── Lab1b/ # Linux Services, SSH, Permissions
-│ ├── lab1b-reflection.md
-│ └── screenshots/
-├── Lab2a/ # Total Cost of Ownership (TCO) Analysis
-│ ├── lab2a-reflection.md
-│ ├── tco-spreadsheet.xlsx
-│ └── screenshots/
-├── Lab2b/ # Cloud Web Server (AWS EC2)
-│ ├── lab2b-reflection.md
-│ └── screenshots/
-├── Lab3a/ # DNS and SSL/TLS (Let's Encrypt)
-│ ├── lab3a-reflection.md
-│ └── screenshots/
-├── Lab3b/ # Automation (Bash Scripting + Cron)
-│ ├── lab3b-reflection.md
-│ └── screenshots/
-└── Lab4a/ # Additional Server Service (MariaDB)
-├── lab4a-reflection.md
-└── screenshots/
+├── README.md
+│
+├── Lab1a/
+│   ├── lab1a-reflection.md
+│   ├── Picture1a.png
+│   ├── Picture1b.png
+│   └── Picture1c.png
+│
+├── Lab1b/
+│   ├── lab1b-reflection.md
+│   ├── 1b-1a.png
+│   ├── 1b-1b.png
+│   ├── 1b-1c.png
+│   ├── 1b-1d.png
+│   ├── 1b-1e.png
+│   ├── 1b-1f.png
+│   ├── 1b-1g.png
+│   └── 1b-1h.png
+│
+├── Lab2a/
+│   ├── lab2a-reflection.md
+│   ├── tco-spreadsheet.xlsx
+│   ├── 2a-1.png
+│   ├── 2a-2.png
+│   └── 2a-3.png
+│
+├── Lab2b/
+│   ├── lab2b-reflection.md
+│   ├── 2b-1.png
+│   ├── 2b-2.png
+│   ├── 2b-3.png
+│   ├── 2b-4.png
+│   ├── 2b-5.png
+│   ├── 2b-6.png
+│   ├── 2b-7.png
+│   ├── 2b-8.png
+│   ├── 2b-9.png
+│   ├── 2b-10.png
+│   └── 2b-11.png
+│
+├── Lab3a/
+│   ├── lab3a-reflection.md
+│   ├── 3a-1.png
+│   ├── 3a-2.png
+│   ├── 3a-3.png
+│   ├── 3a-4.png
+│   ├── 3a-5.png
+│   └── 3a-6.png
+│
+├── Lab3b/
+│   ├── lab3b-reflection.md
+│   ├── 3b-1.png
+│   ├── 3b-2.png
+│   ├── 3b-3.png
+│   ├── 3b-4.png
+│   ├── 3b-5.png
+│   └── 3b-6.png
+│
+└── Lab4a/
+    ├── lab4a-reflection.md
+    ├── 4a-1.png
+    ├── 4a-2.png
+    ├── 4a-3.png
+    ├── 4a-4.png
+    └── 4a-5.png
 
 ```
 ---
