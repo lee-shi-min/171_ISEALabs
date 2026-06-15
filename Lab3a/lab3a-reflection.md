@@ -82,6 +82,19 @@ sudo certbot --apache -d leeshimin.duckdns.org
 |Figure 3a-5|	Browser showing https:// with padlock icon   |
 |Figure 3a-6|	sudo certbot renew --dry-run success         |
 
+<img width="642" height="175" alt="3a-3" src="https://github.com/user-attachments/assets/a2ffbf0f-286d-4649-854d-3a2a7c8c5bd5" />
+Figure 3a-3	Certbot installation  
+
+<img width="752" height="262" alt="3a-4" src="https://github.com/user-attachments/assets/48dd6490-c001-43bb-a792-441a5a05316f" />
+Figure 3a-4	Certbot success message 
+
+<img width="729" height="897" alt="3a-5" src="https://github.com/user-attachments/assets/8c8bc92d-dbb9-4192-be7b-1fe248284e0f" />
+Figure 3a-5	Browser showing with padlock   
+
+<img width="710" height="366" alt="3a-6" src="https://github.com/user-attachments/assets/74510b53-e27f-4678-aaa7-d12193269470" />
+Figure 3a-6	certbot renew --dry-run 
+
+---
 
 Certificate Details
 |Field	 | Value                              |
