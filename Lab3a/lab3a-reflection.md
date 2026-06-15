@@ -25,7 +25,7 @@ All screenshots are located in the `screenshots/` folder.
 | :--- | :--- |
 | Figure 3a-1 | DuckDNS dashboard showing domain `leeshimin.duckdns.org` |
 | Figure 3a-2 | Security Group with HTTPS (port 443) added |
-
+---
 <img width="752" height="846" alt="3a-1" src="https://github.com/user-attachments/assets/607b8a0a-92a5-4e46-915b-a976fda36ac8" />
 Figure 3a-1 DuckDNS dashboard
 
