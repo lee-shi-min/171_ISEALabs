@@ -72,7 +72,7 @@ sudo crontab -l
 ```
 
 ---
-Part 2: Additional Server Service (MariaDB)
+### Part 2: Additional Server Service (MariaDB)
 As my additional server service, I installed and configured MariaDB (a popular open-source relational database management system).
 
 Installation Steps:
