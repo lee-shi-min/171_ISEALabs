@@ -23,6 +23,7 @@ This repository contains all my lab work and assignments for the **Introduction 
 ---
 
 ## 📁 Repository Structure
+
 171_ISEALabs/
 ├── README.md # This file
 ├── Lab1a/ # Virtualisation and Linux Setup
@@ -48,7 +49,6 @@ This repository contains all my lab work and assignments for the **Introduction 
 ├── lab4a-reflection.md
 └── screenshots/
 
-text
 
 ---
 
