@@ -245,7 +245,7 @@ Rename them as:
 | :--- | :--- | :--- |
 | Figure 3b-1 | script code | `3b-1-script-code.png` |
 | Figure 3b-2 | script output | `3b-2-script-output.png` |
-| Figure 3b-3 | cron job  `3b-3-cron-job.png` |
+| Figure 3b-3 | cron job  |`3b-3-cron-job.png` |
 | Figure 3b-4 | MariaDB version | `3b-4-mariadb-version.png` |
 | Figure 3b-5 | MariaDB status | `3b-5-mariadb-status.png` |
 | Figure 3b-6 | SHOW DATABASES | `3b-6-mariadb-databases.png` |
