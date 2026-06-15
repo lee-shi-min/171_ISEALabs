@@ -123,7 +123,7 @@ All screenshots for this lab are located in the screenshots/ folder.
 
 Cron runs with a minimal environment and does NOT load your user's shell profile (like .bashrc). It has a very limited PATH variable. Using absolute paths (e.g., /usr/bin/df instead of just df) ensures that cron can find the commands even though its environment is different from your interactive shell. Without absolute paths, cron jobs may fail silently.
 
-3. What are the benefits of cloud exporting for backups?
+2. What are the benefits of cloud exporting for backups?
 
 - Offsite storage: Protects against local hardware failure, fire, or theft
 - Disaster recovery: Backups are accessible from anywhere
