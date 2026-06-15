@@ -72,6 +72,19 @@ All screenshots for this lab are located in the screenshots/ folder.
 |Figure 4a-4	|MariaDB login (sudo mysql -u root -p)|
 |Figure 4a-5	|SHOW DATABASES; output|
 
+--- 
+
+
+Figure 4a-1:	MariaDB version (mariadb --version)
+
+Figure 4a-2:	MariaDB service status (sudo systemctl status mariadb)
+
+Figure 4a-3:	MariaDB secure installation completion
+
+Figure 4a-4:	MariaDB login (sudo mysql -u root -p)
+
+Figure 4a-5:	SHOW DATABASES; output
+
 
 ### Reflection Questions
 ### 1. Why did you choose this service?
