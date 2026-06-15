@@ -243,15 +243,21 @@ Rename them as:
 
 | Figure in Lab 3b | Original from assignment | New filename |
 | :--- | :--- | :--- |
-| Figure 3b-1 | Figure 6b (script code) | `3b-1-script-code.png` |
-| Figure 3b-2 | Figure 6a (script output) | `3b-2-script-output.png` |
-| Figure 3b-3 | Figure 6c (cron job) | `3b-3-cron-job.png` |
-| Figure 3b-4 | Figure 7a (MariaDB version) | `3b-4-mariadb-version.png` |
-| Figure 3b-5 | Figure 7b (MariaDB status) | `3b-5-mariadb-status.png` |
-| Figure 3b-6 | Figure 7e (SHOW DATABASES) | `3b-6-mariadb-databases.png` |
+| Figure 3b-1 | script code | `3b-1-script-code.png` |
+| Figure 3b-2 | script output | `3b-2-script-output.png` |
+| Figure 3b-3 | cron job  `3b-3-cron-job.png` |
+| Figure 3b-4 | MariaDB version | `3b-4-mariadb-version.png` |
+| Figure 3b-5 | MariaDB status | `3b-5-mariadb-status.png` |
+| Figure 3b-6 | SHOW DATABASES | `3b-6-mariadb-databases.png` |
 
 ---
 
+Figure 3b-1: script code 
+Figure 3b-2: script output 
+Figure 3b-3: cron job  
+Figure 3b-4: MariaDB version 
+Figure 3b-5: MariaDB status 
+Figure 3b-6: SHOW DATABASES
 
 
 
