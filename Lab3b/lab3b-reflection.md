@@ -252,12 +252,24 @@ Rename them as:
 
 ---
 
+<img width="752" height="456" alt="3b-1" src="https://github.com/user-attachments/assets/1c69c2cc-2c68-441b-a752-4fdfd9c4f68d" />
 Figure 3b-1: script code 
+
+<img width="752" height="236" alt="3b-2" src="https://github.com/user-attachments/assets/09e9ea0d-b85f-48de-bc2f-61607182d982" />
 Figure 3b-2: script output 
+
+<img width="786" height="587" alt="image" src="https://github.com/user-attachments/assets/780bed05-682e-4e11-a4a5-e988ed462798" />
 Figure 3b-3: cron job  
+
+<img width="940" height="316" alt="image" src="https://github.com/user-attachments/assets/c33e4641-7c7f-4a1a-87b9-501e245c18da" />
 Figure 3b-4: MariaDB version 
+
+<img width="940" height="369" alt="image" src="https://github.com/user-attachments/assets/6e39463c-3393-414b-8aad-524e1f3795a4" />
 Figure 3b-5: MariaDB status 
+
+<img width="940" height="361" alt="image" src="https://github.com/user-attachments/assets/648d03f6-44d4-431d-95b5-be52d81b6100" />
 Figure 3b-6: SHOW DATABASES
+
 
 
 
