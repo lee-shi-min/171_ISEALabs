@@ -211,35 +211,7 @@ These skills are fundamental for system administration and DevOps roles, where a
 
 ---
 
-## Step-by-Step: Create Lab 3b on GitHub
-
-### Step 1: Create the `Lab3b/` folder
-
-1. Go to: `https://github.com/lee-shi-min/171_ISEALabs`
-2. Click **"Add file"** → **"Create new file"**
-3. Name: `Lab3b/lab3b-reflection.md`
-4. Click **"Commit changes"**
-
-### Step 2: Create the `screenshots/` folder
-
-1. Click into `Lab3b/` folder
-2. Click **"Add file"** → **"Create new file"**
-3. Name: `screenshots/.gitkeep`
-4. Click **"Commit changes"**
-
-### Step 3: Copy the reflection content
-
-1. Click into `Lab3b/` folder
-2. Click on `lab3b-reflection.md`
-3. Click the pencil icon (✏️) to edit
-4. Paste the content above
-5. Click **"Commit changes""
-
-### Step 4: Upload screenshots
-
-Copy screenshots from your assignment (Figures 6a, 6b, 6c, 7a-7e) to `Lab3b/screenshots/`.
-
-Rename them as:
+### Screenshots:
 
 | Figure in Lab 3b | Original from assignment | New filename |
 | :--- | :--- | :--- |
