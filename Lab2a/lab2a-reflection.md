@@ -24,6 +24,7 @@ Figure 2a-2: Brother HL-L2350DW
 <img width="555" height="267" alt="image" src="https://github.com/user-attachments/assets/e422e903-c403-4569-a4b7-bfde7dfd05ca" />
 
 Figure 2a-3: TCO Spreadsheet
+
 ---
 
 ## Assumptions
